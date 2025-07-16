@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Static Website</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 50px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    h1 {
+      color: #007acc;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Static Website</h1>
+  <img src="https://via.placeholder.com/600x300" alt="Placeholder Image">
+  <p>This is a simple static site hosted on GitHub Pages.</p>
+</body>
+</html>
